@@ -1,0 +1,1 @@
+Powershell -Command "Start-Process $Env:ProgramFiles\Google\Chrome Remote Desktop\*\remoting_start_host.exe -ArgumentList '--code=\"4/0Ad2...\" --redirect-url=\"https://talkgadget.google.com/talkgadget/blank\" --name=%COMPUTERNAME%' -NoNewWindow -Wait"
